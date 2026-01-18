@@ -1,7 +1,8 @@
 # Incubator-Accessories-Sales-Project
 
 ---
-<img width="972" height="547" alt="screenshot-1768769001980" src="https://github.com/user-attachments/assets/2dddc34a-8931-4e52-bab3-2494ff0b161e" />
+<img width="3597" height="2116" alt="SALES DASHBOARD" src="https://github.com/user-attachments/assets/bf80a4ab-19a2-4d66-8f86-4626914600eb" />
+
 
 # Sales Performance Dashboard (Excel)
 
